@@ -6,6 +6,7 @@ metadata:
   name: nginx
 spec:
   replicas: 3
+  //Hello Welcome to Mouri-tech
   selector:
     matchLabels:
       app: nginx
